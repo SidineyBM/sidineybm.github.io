@@ -1,3 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder
+I am a PhD candidate in [Applied Mathematics](https://www.ime.unicamp.br/en/graduate/applied-mathematics) at State University of Campinas [(Unicamp)](https://www.unicamp.br/unicamp/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+MSc in [Mathematics](http://www.pma.uem.br/website-in-english/home) at State University of Maringá [(UEM)]([http://www.pma.uem.br/website-in-english/home](https://www.cpr.uem.br/international/index.php/en/)). BSc in [Physics](http://www.dfi.uem.br/fisica/) at State University of Maringá [(UEM)](https://www.cpr.uem.br/international/index.php/en/). 
+
+Member of the Mathematical Foundations of Quantum Theory Group [(MathFoundQ)](https://www.ime.unicamp.br/~mfq/) and the Brazilian National Institute for Science and Technology of Quantum Information [(INCT-IQ)](https://inctiq.if.ufrj.br/).
