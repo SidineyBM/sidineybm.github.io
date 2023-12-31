@@ -6,8 +6,9 @@ main:
   footer_text: # the ">" symbol means to ignore newlines until "titles:"
     Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  more_info: >
-  subtitle: >Department of Applied Mathematics,
+  more_info: 
+  subtitle: >
+  Department of Applied Mathematics,
   Institute of Mathematics, Statistics and Scientific Computing,
   State University of Campinas, Campinas, São Paulo, Brazil
 titles:
