@@ -1,3 +1,5 @@
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+Sou doutorando em [Matemática Aplicada](https://www.ime.unicamp.br/pos-graduacao/matematica-aplicada) pela Universidade Estadual de Campinas [(Unicamp)](https://www.unicamp.br/unicamp/).
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/al-folio/publications/) automaticamente.
+Mestre em [Matemática](http://www.pma.uem.br/) pela Universidade Estadual de Maringá [(UEM)](http://www.uem.br/). Bacharel em [Física](http://www.dfi.uem.br/fisica/) pela Universidade Estadual de Maringá [(UEM)](http://www.uem.br/).
+
+Membro do Grupo de Fundamentos Matemáticos da Teoria Quântica [(MathFoundQ)](https://www.ime.unicamp.br/~mfq/) e do Instituto Nacional de Ciência e Tecnologia da Informação Quântica [(INCT-IQ)](https://inctiq.if.ufrj.br/).
