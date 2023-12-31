@@ -2,16 +2,12 @@ not_found:
   message: Você será redirecionado para a página principal em 3 segundos. Se não for redirecionado, por favor volte para a
   main_page: página principal
 main:
-  contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  contact_note: 
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
     Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-    Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-  subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+  subtitle: 
 titles:
   about: sobre
   blog: blog
