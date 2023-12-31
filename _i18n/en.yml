@@ -8,9 +8,9 @@ main:
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   more_info: >
   subtitle: > 
-  Department of Applied Mathematics, 
-  Institute of Mathematics, Statistics and Scientific Computing, 
-  State University of Campinas, Campinas, São Paulo, Brazil
+  <p>Department of Applied Mathematics,<\p>
+  <p>Institute of Mathematics, Statistics and Scientific Computing,<\p>
+  <p>State University of Campinas, Campinas, São Paulo, Brazil<\p>
 titles:
   about: about
   blog: blog
