@@ -9,16 +9,16 @@ main:
   more_info: >
   subtitle: > #Departamento de Matemática Aplicada, Instituto de Matemática, Estatística e Computação Científica, Universidade Estadual de Campinas, Campinas, São Paulo, Brasil
 titles:
-  about: sobre
+  about: Sobre
   blog: blog
-  cv: cv
+  cv: Curriculum Vitae
   latest_posts: últimas postagens
   news: novidades
   profiles: membros
   projects: projetos
-  publications: publicações
+  publications: Publicações
   repositories: repositórios
-  selected_publications: publicações selecionadas
+  selected_publications: Publicações Selecionadas
   teaching: ensino
   submenus: submenus
   unk: página não encontrada
