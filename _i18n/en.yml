@@ -9,16 +9,16 @@ main:
   more_info: >
   subtitle: > #Department of Applied Mathematics, Institute of Mathematics, Statistics and Scientific Computing, State University of Campinas, Campinas, São Paulo, Brazil
 titles:
-  about: about
+  about: About
   blog: blog
-  cv: cv
+  cv: Curriculum Vitae
   latest_posts: latest posts
   news: news
   profiles: people
   projects: projects
-  publications: publications
+  publications: Publications
   repositories: repositories
-  selected_publications: selected publications
+  selected_publications: Selected Publications
   teaching: teaching
   submenus: submenus
   unk: page not found
