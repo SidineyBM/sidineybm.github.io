@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: titles.Curriculum Vitae
+title: titles.cv
 permalink: /cv/
 nav: true
 nav_order: 3
