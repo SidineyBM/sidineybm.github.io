@@ -10,6 +10,9 @@ toc:
   sidebar: #left
 ---
 
+<object data="/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae.pdf" width="1000" height="1000" type='application/pdf'/>
+
+
 {% if page.lang == "en" %}
 <iframe src="/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
 {% else %}
