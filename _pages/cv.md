@@ -10,4 +10,4 @@ toc:
   sidebar: #left
 ---
 
-<iframe src="{{ 'https://sidineybm.github.io/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
+<iframe src="/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae.pdf" width="100%" height="1000px" style="border:none;"></iframe>
