@@ -11,7 +11,8 @@ main:
 titles:
   about: Sobre
   blog: blog
-  cv: Curriculum Vitae
+  cv: CV
+  cv2: Curriculum Vitae
   latest_posts: últimas postagens
   news: novidades
   profiles: membros
