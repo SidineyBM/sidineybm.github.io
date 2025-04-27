@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: titles.cv
-permalink: /cv/
+permalink: /Curriculum Vitae/
 nav: true
 nav_order: 3
 cv_pdf: Sidiney_Montanhano_Curriculum_Vitae.pdf
