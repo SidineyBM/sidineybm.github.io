@@ -12,9 +12,9 @@ toc:
 ---
 
 <div class="container-pdf" style="width: 100%; height: 1000px;">
-  {% if site.lang == "en" %}
-    <iframe src="{{ '/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae-en.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
+  {% if page.lang == "pt-br" %}
+    <iframe src="{{ '/assets/pdf/pt-br/Sidiney_Montanhano_Curriculum_Vitae-en.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
   {% else %}
-    <iframe src="{{ '/assets/pdf/pt-br/Sidiney_Montanhano_Curriculum_Vitae.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
+    <iframe src="{{ '/assets/pdf/en/Sidiney_Montanhano_Curriculum_Vitae.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
   {% endif %}
 </div>
