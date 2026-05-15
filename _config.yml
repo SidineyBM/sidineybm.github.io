@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sidiney Bruno Montanhano # the website title (if blank, full name will be used instead)
-first_name: blank
-middle_name: blank
-last_name: blank
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Sidiney
+middle_name: Bruno
+last_name: Montanhano
 email: sidineybmt@gmail.com
 keywords:  # add your own keywords or leave empty
 
